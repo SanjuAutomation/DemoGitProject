@@ -6,6 +6,8 @@ public class MyTest {
 		
 		String myName = "Vikram";
 		int age = 25;
+		String city = "Bengaluru";
+		String country = "India";
 	}
 
 }
